@@ -5,7 +5,7 @@ A simple feature flags library for your application.
 #### Install
 
 ```
-$ yarn add spectra
+$ yarn add spectra-flags
 ```
 
 #### Usage
